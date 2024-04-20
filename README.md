@@ -25,4 +25,5 @@ Your input is crucial to us! Please reach out at anzalshaikh27@gmail.com or subm
 ## License
 The Travel Insurance Prediction App is made available under the MIT License. For more details, check out the LICENSE.md file.
 
-## To see the app in action, visit [Travel Insurance Prediction App]([url](https://travel-insurance-prediction-anzal.streamlit.app/)).
+## To see the app in action, visit [Travel Insurance Prediction App]
+https://travel-insurance-prediction-anzal.streamlit.app/
