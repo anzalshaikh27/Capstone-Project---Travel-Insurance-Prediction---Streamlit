@@ -1,6 +1,11 @@
 # [Travel Insurance Prediction App]([url](https://travel-insurance-prediction-anzal.streamlit.app/)) (Capstone Project)
 https://travel-insurance-prediction-anzal.streamlit.app/
 
+## UI
+
+![image](https://github.com/anzalshaikh27/Travel-Insurance-Prediction-Streamlit-Capstone-Project/assets/57680301/70547bca-39c8-4afb-9588-fd061b97cea2)
+
+
 ## Overview
 This project is centered around a web-based application that evaluates the likelihood of a user purchasing travel insurance. The application leverages a RandomForestClassifier, a machine learning algorithm, to analyze user inputs and predict outcomes. Developed with Streamlit, this tool offers an engaging and interactive way to assess insurance needs.
 
