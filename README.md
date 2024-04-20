@@ -20,7 +20,7 @@ In the 'Information & Resources' area of the app, users can find additional mate
 ## Informative section on travel insurance.
 
 ## Feedback
-Your input is crucial to us! Please reach out at your.email@example.com or submit an issue on the GitHub issues page to help us enhance the app.
+Your input is crucial to us! Please reach out at anzalshaikh27@gmail.com or submit an issue on the GitHub issues page to help us enhance the app.
 
 ## License
 The Travel Insurance Prediction App is made available under the MIT License. For more details, check out the LICENSE.md file.
