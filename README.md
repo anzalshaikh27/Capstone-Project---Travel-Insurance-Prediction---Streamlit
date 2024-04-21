@@ -45,19 +45,23 @@ To use the app:
 • Provide personal and travel-related details, such as age, employment type, graduate
 status, frequency of travel, history of international travel, annual income, family size, and
 chronic diseases which are present on left pane.
+
 • Click on "Predict Insurance Need" to get a prediction.
 
 ## Two sample results can be generated:
 ➢ Likely to purchase insurance if age > 30, income > $500,000, and family members > 4
 because those features are best features for predicting the results.
+
 ➢ Not likely to purchase insurance for other input features combination.
 
 ## Visualization Logic
 • ROC Curve: Illustrates the diagnostic ability of the classifier by plotting the true positive
 rate against the false positive rate at various threshold settings. The area under the curve
 (AUC) serves as a measure of the model’s accuracy.
+
 • Feature Importance: Reveals the relative importance of each feature in making accurate
 predictions. Higher bars indicate more significant predictors.
+
 • Feature Correlation Heatmap: Displays the correlation coefficients between variables.
 Darker colors represent stronger relationships, aiding in understanding the
 interdependencies among features.
