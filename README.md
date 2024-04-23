@@ -1,13 +1,14 @@
 # [Travel Insurance Prediction App]([url](https://travel-insurance-prediction-anzal.streamlit.app/)) (Capstone Project)
 https://travel-insurance-prediction-anzal.streamlit.app/
 
+## Video Link
+
+https://youtu.be/EVdjL7euFHc
+
 ## UI
 
 ![image](https://github.com/anzalshaikh27/Travel-Insurance-Prediction-Streamlit-Capstone-Project/assets/57680301/70547bca-39c8-4afb-9588-fd061b97cea2)
 
-## Video Link
-
-https://youtu.be/EVdjL7euFHc
 
 ## Abstract
 A Tour & Travels Company Is Offering Travel Insurance Package To Their Customers.The New
